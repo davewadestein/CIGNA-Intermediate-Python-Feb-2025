@@ -11,5 +11,5 @@
 ## Lab Environment
 * https://labs.bestitcourses.com
 * https://colab.research.google.com/
-* or, download materials 
+* or, download materials to your machine from GitHub and use VS Code to view them
 
