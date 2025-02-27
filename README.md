@@ -1,6 +1,10 @@
 # CIGNA-Intermediate-Python-Feb-2025
 * How to reach me: dave@developintelligence.com
 
+## Lunch schedule
+* 9-9:30 Pacific / 12-12:30 Eastern
+* 11:30-12 Pacific / 2:30-3 Eastern
+* 
 ## Thursday 1-Question Polls
 * https://xoyondo.com/op/tzxvzcitez372v7
 * https://xoyondo.com/op/niyg1n6mqu1pt2t
