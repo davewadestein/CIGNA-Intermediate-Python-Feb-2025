@@ -7,6 +7,10 @@
 
 ## Course materials
 * https://github.com/davewadestein/Intermediate-Python
+
+## Resources
+* https://pythontutor.com/
+* https://gemini.google.com/
   
 ## Lab Environment
 * https://labs.bestitcourses.com
