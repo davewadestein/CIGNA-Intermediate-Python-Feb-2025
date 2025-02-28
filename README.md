@@ -4,10 +4,10 @@
 ## Lunch schedule
 * 9-9:30 Pacific / 12-12:30 Eastern
 * 11:30-12 Pacific / 2:30-3 Eastern
-* 
-## Thursday 1-Question Polls
-* https://xoyondo.com/op/tzxvzcitez372v7
-* https://xoyondo.com/op/niyg1n6mqu1pt2t
+
+## Friday 1-Question Polls
+* https://xoyondo.com/op/egvuo515qmghkyu
+* https://xoyondo.com/op/k6s6i2tn6en4146
 
 ## Course materials
 * https://github.com/davewadestein/Intermediate-Python
