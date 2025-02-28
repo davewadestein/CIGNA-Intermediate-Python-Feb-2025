@@ -1,6 +1,10 @@
 # CIGNA-Intermediate-Python-Feb-2025
 * How to reach me: dave@developintelligence.com
 
+## Course evaluation
+* https://pluralsight.surveymonkey.com/r/NXF2GT3
+* Important! Your chance to determine how future iterations of the class will run, etc.
+  
 ## Lunch schedule
 * 9-9:30 Pacific / 12-12:30 Eastern
 * 11:30-12 Pacific / 2:30-3 Eastern
