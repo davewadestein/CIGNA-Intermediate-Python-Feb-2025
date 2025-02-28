@@ -15,6 +15,7 @@
 ## Resources
 * https://pythontutor.com/
 * https://gemini.google.com/
+* Great book, where many examples are taken from: __Fluent Python__ by Luciano Ramalho
   
 ## Lab Environment
 * https://labs.bestitcourses.com
