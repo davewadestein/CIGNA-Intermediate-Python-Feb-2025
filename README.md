@@ -1,6 +1,11 @@
 # CIGNA-Intermediate-Python-Feb-2025
 * How to reach me: dave@developintelligence.com
 
+## Answer to Jason's question
+* find all sales opportunities which were exactly 16 days in the sales stage and then see how many Win/Losses there were:
+
+<img width="1176" alt="Screenshot 2025-02-28 at 3 46 12 PM" src="https://github.com/user-attachments/assets/df70a38b-7938-4c10-b944-12009d1bb38c" />
+
 ## Course evaluation
 * https://pluralsight.surveymonkey.com/r/NXF2GT3
 * Important! Your chance to determine how future iterations of the class will run, etc.
